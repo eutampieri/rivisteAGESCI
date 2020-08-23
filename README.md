@@ -14,5 +14,5 @@ Ogni programma, quando avviato, chiede da quale anno a quale anno si vuole scari
 
 ## Prerequisiti
 
-* [Requests](http://docs.python-requests.org/en/master/)
-* [lxml](http://lxml.de)
+* [Requests](http://docs.python-requests.org/en/master/) `pip3 install requests`
+* [lxml](http://lxml.de) `pip3 install lxml`
